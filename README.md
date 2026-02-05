@@ -1,4 +1,4 @@
-<h1 align="center">Hi there! 👋</h1>
+<h1 align="center">Welcome to Progamin! 👋</h1>
 <!-- <h3 align="center">AI Specialist | Software Development | AI Agents</h3> -->
 
 <p align="center">
