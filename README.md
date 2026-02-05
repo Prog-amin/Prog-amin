@@ -55,10 +55,10 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Prog-amin&show_icons=true&theme=radical" alt="Al Amin's GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prog-amin&layout=compact&theme=radical" alt="Top Langs" />
-</p>
+
+![Al Amin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Prog-amin&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Prog-amin&layout=compact&theme=radical)
 
 ---
 
