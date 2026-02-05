@@ -42,12 +42,10 @@
 | :--- | :--- | :--- |
 | **[invoice-reconciliation](https://github.com/Prog-amin/invoice-reconciliation)** | A production-grade multi-agent system that processes supplier invoices, extracts data, and matches them against purchase orders to detect discrepancies. | Python, LangGraph |
 | **[federal-rag-agentic-chatbot](https://github.com/Prog-amin/federal-rag-agentic-chatbot)** | An AI-powered RAG system providing intelligent access to US Federal Registry documents, executive orders, and regulations. | Python, RAG |
-| **[data-analyst-agent](https://github.com/Prog-amin/data-analyst-agent)** | AI-powered application that analyzes files, generates insights, creates visualizations, and answers data queries. | Python, LLMs |
 
 #### 🌐 Full Stack & Web
 | Project | Description | Stack |
 | :--- | :--- | :--- |
-| **[web-insight-q](https://github.com/Prog-amin/web-insight-q)** | Full-stack app allowing users to ask questions about any website and get AI-powered answers. | Next.js, Express, BullMQ, Playwright |
 | **[ai-counsellor](https://github.com/Prog-amin/ai-counsellor)** | A guided platform helping students make informed study-abroad decisions using AI-powered counseling. | JavaScript |
 | **[note-summarizer](https://github.com/Prog-amin/note-summarizer)** | An AI-powered meeting notes summarizer and sharer. | React, Express, Groq AI |
 
