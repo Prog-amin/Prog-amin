@@ -55,7 +55,7 @@
 
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Prog-amin&theme=radical" alt="Profile Details" />
-  
+</br>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Prog-amin&theme=radical&utcOffset=5.5" alt="Productive Time" />
 </p>
 
