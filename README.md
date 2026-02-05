@@ -56,8 +56,9 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Prog-amin&show_icons=true&theme=radical&cache_seconds=1800" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com?user=Prog-amin&theme=radical" alt="Streak Stats" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Prog-amin&theme=radical" alt="Profile Details" />
+  <br/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Prog-amin&theme=radical&utcOffset=5.5" alt="Productive Time" />
 </p>
 
 ---
