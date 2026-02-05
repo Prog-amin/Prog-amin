@@ -1,15 +1,14 @@
-<h1 align="center">Hi there, I'm Al Amin! 👋</h1>
-<h3 align="center">AI Specialist | Software Development | AI Agents</h3>
+<h1 align="center">Hi there! 👋</h1>
+<!-- <h3 align="center">AI Specialist | Software Development | AI Agents</h3> -->
 
 <p align="center">
-  I am a developer based in <b>Chennai, India</b>, passionate about building production-grade <b>AI Agents</b> and scalable <b>Full-Stack Applications</b>. My work focuses on integrating Large Language Models (LLMs) with practical business logic using tools like LangGraph, RAG, and Next.js.
+  I'm Al Amin, a developer based in <b>Chennai, India</b>, passionate about building production-grade <b>AI Agents</b> and scalable <b>Full-Stack Applications</b>. My work focuses on integrating Large Language Models (LLMs) with practical business logic using tools like LangGraph, RAG, and Next.js.
 </p>
 
 <p align="center">
   <!-- <a href="https://ai-counsellor-alamin.vercel.app">Portfolio</a> • -->
-<a href="https://linkedin.com/in/al-aminu">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>  <!-- <a href="https://huggingface.co/spaces/Prog-amin">HuggingFace</a> -->
+<a href="https://linkedin.com/in/al-aminu">LinkedIn</a>
+  <!-- <a href="https://huggingface.co/spaces/Prog-amin">HuggingFace</a> -->
 </p>
 
 ---
