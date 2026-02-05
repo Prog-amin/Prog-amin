@@ -7,7 +7,7 @@
 
 <p align="center">
   <!-- <a href="https://ai-counsellor-alamin.vercel.app">Portfolio</a> • -->
-  <a href="https://linkedin.com/in/al-aminu">LinkedIn</a> •
+  <a href="https://linkedin.com/in/al-aminu">LinkedIn</a> 
   <!-- <a href="https://huggingface.co/spaces/Prog-amin">HuggingFace</a> -->
 </p>
 
