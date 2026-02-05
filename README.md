@@ -1,64 +1,77 @@
-# Hi there, I'm Al Amin! 👋
+<h1 align="center">Hi there, I'm Al Amin! 👋</h1>
+<h3 align="center">AI Specialist | Software Development | AI Agents</h3>
 
-### AI Specialist | Software Development | AI Agents
+<p align="center">
+  I am a developer based in <b>Chennai, India</b>, passionate about building production-grade <b>AI Agents</b> and scalable <b>Full-Stack Applications</b>. My work focuses on integrating Large Language Models (LLMs) with practical business logic using tools like LangGraph, RAG, and Next.js.
+</p>
 
-I am a software developer and AI specialist based in **Chennai, India**, currently working with **Califnco**. I specialize in building production-grade multi-agent systems, RAG pipelines, and full-stack web applications. My passion lies in bridging the gap between complex AI capabilities and practical, user-centric solutions.
-
-- 🔭 I’m currently working on **Multi-Agent Systems & Invoice Reconciliation**
-- 🤝 I’m looking to collaborate on **Open Source AI Projects & Agentic Workflows**
-- 💬 Ask me about **LangGraph, RAG, Next.js, and AI Agents**
-- 📫 How to reach me: [alamin03rockz@gmail.com](mailto:alamin03rockz@gmail.com)
+<p align="center">
+  <a href="https://ai-counsellor-alamin.vercel.app">Portfolio</a> •
+  <a href="https://linkedin.com/in/al-aminu">LinkedIn</a> •
+  <a href="https://huggingface.co/spaces/Prog-amin">HuggingFace</a>
+</p>
 
 ---
 
-## 🛠️ Tech Stack
+### 🛠️ Tech Stack
 
 **Languages**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)
 
-**AI & Data Engineering**
-![LangChain](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![BullMQ](https://img.shields.io/badge/BullMQ-FF5722?style=for-the-badge)
+**AI & Data**
+![LangGraph](https://img.shields.io/badge/LangGraph-FF4B4B?style=flat&logo=python&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-Architecture-orange)
+![Groq](https://img.shields.io/badge/Groq-AI-purple)
+![Playwright](https://img.shields.io/badge/Playwright-45ba4b?style=flat&logo=playwright&logoColor=white)
 
-**Web Development**
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![Playwright](https://img.shields.io/badge/Playwright-45BA4B?style=for-the-badge&logo=playwright&logoColor=white)
-
----
-
-## 🚀 Featured Projects
-
-### 🤖 AI & Agents
-* **[Invoice Reconciliation](https://github.com/Prog-amin/invoice-reconciliation)**: A production-grade multi-agent system built with **LangGraph** that processes supplier invoices, matches them against purchase orders, and detects discrepancies.
-* **[Federal RAG Agentic Chatbot](https://github.com/Prog-amin/federal-rag-agentic-chatbot)**: An AI-powered RAG system providing intelligent access to US Federal Registry documents.
-* **[Data Analyst Agent](https://github.com/Prog-amin/data-analyst-agent)**: An AI application capable of analyzing various file formats, generating insights, and creating visualizations.
-
-### 🌐 Full Stack & Web
-* **[AI Counsellor](https://github.com/Prog-amin/ai-counsellor)**: A guided platform helping students make informed study-abroad decisions using AI-powered counseling.
-* **[Web Insight Q](https://github.com/Prog-amin/web-insight-q)**: A full-stack app (Next.js, BullMQ, Playwright) allowing users to ask questions about any website and get AI-powered answers.
-* **[Faithful Concept Mapper](https://github.com/Prog-amin/faithful-concept-mapper)**: Analysis of the BRSR Framework alignment within the Indian IT sector.
+**Web & Backend**
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
 
 ---
 
-## 📊 GitHub Stats
+### 🚀 Featured Projects
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Prog-amin&show_icons=true&theme=radical" alt="Al Amin's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prog-amin&layout=compact&theme=radical" alt="Top Languages" />
-</div>
+#### 🤖 AI & Agents
+| Project | Description | Stack |
+| :--- | :--- | :--- |
+| **[invoice-reconciliation](https://github.com/Prog-amin/invoice-reconciliation)** | A production-grade multi-agent system that processes supplier invoices, extracts data, and matches them against purchase orders to detect discrepancies. | Python, LangGraph |
+| **[federal-rag-agentic-chatbot](https://github.com/Prog-amin/federal-rag-agentic-chatbot)** | An AI-powered RAG system providing intelligent access to US Federal Registry documents, executive orders, and regulations. | Python, RAG |
+| **[data-analyst-agent](https://github.com/Prog-amin/data-analyst-agent)** | AI-powered application that analyzes files, generates insights, creates visualizations, and answers data queries. | Python, LLMs |
+
+#### 🌐 Full Stack & Web
+| Project | Description | Stack |
+| :--- | :--- | :--- |
+| **[web-insight-q](https://github.com/Prog-amin/web-insight-q)** | Full-stack app allowing users to ask questions about any website and get AI-powered answers. | Next.js, Express, BullMQ, Playwright |
+| **[ai-counsellor](https://github.com/Prog-amin/ai-counsellor)** | A guided platform helping students make informed study-abroad decisions using AI-powered counseling. | JavaScript |
+| **[note-summarizer](https://github.com/Prog-amin/note-summarizer)** | An AI-powered meeting notes summarizer and sharer. | React, Express, Groq AI |
 
 ---
 
-## 🔗 Connect with Me
+### 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Prog-amin&show_icons=true&theme=radical" alt="Al Amin's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prog-amin&layout=compact&theme=radical" alt="Top Langs" />
+</p>
+
+---
+
+### 📫 Connect with me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/al-aminu" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="al-aminu" /></a>
-<a href="https://huggingface.co/spaces/Prog-amin" target="blank"><img align="center" src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Prog-amin" /></a>
-<a href="https://ai-counsellor-alamin.vercel.app" target="blank"><img align="center" src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+<a href="https://linkedin.com/in/al-aminu">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://huggingface.co/spaces/Prog-amin">
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+</a>
+<a href="mailto:alamin03rockz@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 </p>
