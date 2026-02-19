@@ -21,21 +21,29 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)
 
-**AI & Data**
-![LangGraph](https://img.shields.io/badge/LangGraph-FF4B4B?style=flat&logo=python&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-Architecture-orange)
-![Groq](https://img.shields.io/badge/Groq-AI-purple)
-![Playwright](https://img.shields.io/badge/Playwright-45ba4b?style=flat&logo=playwright&logoColor=white)
-
 **Web & Backend**
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
 
+**AI & Data**
+![LangGraph](https://img.shields.io/badge/LangGraph-FF4B4B?style=flat&logo=python&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-Architecture-orange)
+![Groq](https://img.shields.io/badge/Groq-AI-purple)
+![Playwright](https://img.shields.io/badge/Playwright-45ba4b?style=flat&logo=playwright&logoColor=white)
+
+
 ---
 
 ### 🚀 Featured Projects
+
+#### 🌐 Full Stack & Web
+| Project | Description | Stack |
+| :--- | :--- | :--- |
+| **[ai-counsellor](https://github.com/Prog-amin/ai-counsellor)** | A guided platform helping students make informed study-abroad decisions using AI-powered counseling. | JavaScript |
+| **[note-summarizer](https://github.com/Prog-amin/note-summarizer)** | An AI-powered meeting notes summarizer and sharer. | React, Express, Groq AI |
+
 
 #### 🤖 AI & Agents
 | Project | Description | Stack |
@@ -43,11 +51,6 @@
 | **[invoice-reconciliation](https://github.com/Prog-amin/invoice-reconciliation)** | A production-grade multi-agent system that processes supplier invoices, extracts data, and matches them against purchase orders to detect discrepancies. | Python, LangGraph |
 | **[federal-rag-agentic-chatbot](https://github.com/Prog-amin/federal-rag-agentic-chatbot)** | An AI-powered RAG system providing intelligent access to US Federal Registry documents, executive orders, and regulations. | Python, RAG |
 
-#### 🌐 Full Stack & Web
-| Project | Description | Stack |
-| :--- | :--- | :--- |
-| **[ai-counsellor](https://github.com/Prog-amin/ai-counsellor)** | A guided platform helping students make informed study-abroad decisions using AI-powered counseling. | JavaScript |
-| **[note-summarizer](https://github.com/Prog-amin/note-summarizer)** | An AI-powered meeting notes summarizer and sharer. | React, Express, Groq AI |
 
 ---
 
